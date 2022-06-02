@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <SignAssembly>True</SignAssembly>
+	<AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <AssemblyOriginatorKeyFile>C:\Users\toppacUX\Desktop\HS2\ZipmodThumbnailHandler\handle.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+
+</Project>
