@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ZipmodThumbnailHandler": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
